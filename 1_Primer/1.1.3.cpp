@@ -8,6 +8,6 @@ int main(){
     std::cout << std::endl;
     int test[5];
     for (int i = 0; i<10000; i++){
-        std::cout << test[i] << std::endl;       
+        std::cout << test[i] << std::endl;    
     }
 }
