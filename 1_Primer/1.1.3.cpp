@@ -9,5 +9,5 @@ int main(){
     int test[5];
     for (int i = 0; i<10000; i++){
         std::cout << test[i] << std::endl;       
-    }    
+    }
 }
