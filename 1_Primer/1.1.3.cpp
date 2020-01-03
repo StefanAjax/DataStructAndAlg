@@ -84,4 +84,6 @@ int main(){
 
     //std::cout << p->name << std::endl;    ger segmentation fault pga delete p
 
+    const int N_DAYS = 7;
+
 }
